@@ -1,0 +1,2 @@
+Prefix plugins/GeneTable/example/
+Plugin GeneTable inputfile parameters.viz.txt outputfile genetable.csv
